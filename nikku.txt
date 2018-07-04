@@ -2,9 +2,9 @@ Nikku mera dost
 
 
 
-<<<<<<< HEAD
+
 
 Abhishek
-=======
+
 nikhil
->>>>>>> xyz
+
